@@ -1,6 +1,6 @@
 # OPSEC: A THREAT ANALYTICS PLATFORM FOR INVESTIGATIVE JOURNALISTS
 
-*As seen in "Wired"... definitely serious software...*
+*As seen in "Wired"... definitely very serious software, for serious individuals.*
 
 Journalists worldwide face unprecedented threats from state actors using advanced intrusion techniques. Increasingly, we see that tools and techniquesthat were developed for international intelligence gathering are being turned against domestic dissidents and reporters.
 
