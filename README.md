@@ -6,7 +6,9 @@ Journalists worldwide face unprecedented threats from state actors using advance
 
 Unfortunately, it's become increasingly clear that journalists are unprepared to meet these new digital threats or adopt the tools and techniques they need to protect their sources and operate in hostile environments.
 
-Enter OPSEC. OPSEC automatically gathers threat information from a secure vantage point by suspending the user's state inside a hypervisor and collecting situationally relavent information. Then, OPSEC develops operational security "playbooks" that are customized to the user's threat environment. Amazing!
+Enter OPSEC. 
+
+OPSEC automatically gathers threat information from a secure vantage point by suspending the user's state inside a hypervisor and collecting situationally relavent information. Then, OPSEC develops operational security "playbooks" that are customized to the user's threat environment. Amazing!
 
 "A game changer." - Glenn Greenwald
 
