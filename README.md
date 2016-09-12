@@ -8,7 +8,7 @@ Unfortunately, it's become increasingly clear that journalists are unprepared to
 
 Enter OPSEC. 
 
-OPSEC automatically gathers threat information from a secure vantage point by suspending the user's state inside a hypervisor and collecting situationally relavent information. Then, OPSEC develops operational security "playbooks" that are customized to the user's threat environment. Amazing!
+OPSEC automatically gathers threat information from a secure vantage point, by suspending the user's state inside a hypervisor and then collecting situationally relavent information and parsing a database of human-meaningful threats with natural language processing. Then, OPSEC develops operational security "playbooks" that are customized to the user's threat environment. Amazing!
 
 "A game changer." - Glenn Greenwald
 
