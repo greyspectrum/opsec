@@ -4,7 +4,7 @@
 
 Journalists worldwide face unprecedented threats from state actors using advanced intrusion techniques. Increasingly, we see that tools and techniques that were developed for international intelligence gathering are being turned against domestic dissidents and reporters.
 
-Unfortunately, it's become increasingly clear that journalists are unprepared to meet these new digital threats or adopt the tools and techniques they need to protect their sources and operate in hostile environments.
+Unfortunately, it's become equally clear that journalists are unprepared to meet these new digital threats or adopt the tools and techniques they need to protect their sources and operate in hostile environments.
 
 Enter OPSEC. 
 
