@@ -20,7 +20,7 @@ OPSEC automatically gathers threat information from a secure vantage point, by s
 
 ## Installation
 
-Clone this repository, and make `opsec.py` executable by running:
+Clone this repository, then make `opsec.py` executable by running:
 
 `$ chmod +x opsec.py`
 
