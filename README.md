@@ -4,7 +4,7 @@
 
 Journalists worldwide face unprecedented cyber threats from advanced, persistent cyber state actors, who are turning to sophisticated intrusion techniques to suppress adversarial journalism. Increasingly, we see tools and techniques that were orginally developed for foreign intelligence gathering being turned against domestic dissidents and reporters.
 
-Unfortunately, it has become equally clear that journalists are unprepared to meet these new digital threats or adopt the tools and techniques they need to protect their sources and operate in hostile environments.
+Unfortunately, it has become equally clear that journalists are unprepared to meet these new digital threats or adopt the digital defenses they need to protect their sources and operate in hostile environments.
 
 Enter OPSEC. 
 
