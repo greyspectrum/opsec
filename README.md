@@ -1,6 +1,6 @@
 # opsec
 
-Automated operational security advice, tailored to your operational needs--a bad joke that isn't even funny.
+Automated operational security advice, tailored to your operational needs. A bad joke that isn't even funny.
 
 ## Installation
 
