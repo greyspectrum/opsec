@@ -10,4 +10,4 @@ Clone this repository, then make `opsec.py` executable by running:
 
 Then run it:
 
-`python opsec.py`
+`$ python opsec.py`
