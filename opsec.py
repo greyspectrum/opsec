@@ -1,26 +1,40 @@
 from bs4 import BeautifulSoup, NavigableString
 from urllib2 import urlopen
-
 import time
+import subprocess
 
+print "OPSEC: AUTONOMOUS OPERATIONAL SECURITY ANALYTIC ENGINE"
+subprocess.Popen(["espeak", "Loading OPSEC"])
+time.sleep(2)
+subprocess.Popen(["espeak", "autonomous operational security analytic engine"])
+time.sleep(4)
 print "Collecting analytics..."
-time.sleep(1)
+subprocess.Popen(["espeak", "Collecting analytics..."])
+time.sleep(3)
 print "Performing cryptanalysis..."
-time.sleep(1)
+subprocess.Popen(["espeak", "Performing cryptanalysis..."])
+time.sleep(3)
 print "Executing state..."
-time.sleep(1)
+subprocess.Popen(["espeak", "Executing state.."])
+time.sleep(3)
 print "Fetching EFF Scorecard..."
-time.sleep(1.25)
+subprocess.Popen(["espeak", "Fetching EFF Scorecard..."])
+time.sleep(3.25)
 print "Assembling Customized Threat Model..."
-time.sleep(1)
+subprocess.Popen(["espeak", "Assembling Customized Threat Model..."])
+time.sleep(4)
 print "Loading Operational Oracle..."
-time.sleep(2)
+subprocess.Popen(["espeak", "Loading Operational Oracle..."])
+time.sleep(3)
 print "Asking Snowden..."
-time.sleep(2)
+subprocess.Popen(["espeak", "Asking Snowden..."])
+time.sleep(3)
 print "\n-----SYSTEM READY-----"
+subprocess.Popen(["espeak", "system ready"])
 time.sleep(2)
 print "\nAs your attorney, I advise:\n"
-time.sleep(1.5)
+subprocess.Popen(["espeak", "As your attorney, I advise"])
+time.sleep(3)
 
 user = "thegrugq_ebooks" 
 
@@ -49,8 +63,14 @@ for i in range(0,len(tweets)):
 		else:
 			message += nib.text
 
-	print message 
-	time.sleep(1)
+	print message
+	subprocess.Popen(["espeak", message])
+	time.sleep(7)
 
 time.sleep(1)
-print "\n Use Signal. Use Tor."
+print "Use Signal. Use Tor."
+subprocess.Popen(["espeak", "Use Signal. Use Tor."])
+time.sleep(4)
+print "OPERATIONAL ANALYSIS COMPLETE"
+subprocess.Popen(["espeak", "operational analysis complete"])
+time.sleep(4)
