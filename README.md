@@ -4,7 +4,11 @@ Automated operational security advice, tailored to your operational needs. A bad
 
 ## Installation
 
-Clone this repository, then make `opsec.py` executable by running:
+This script needs espeak to run, so first install it:
+
+`$ sudo apt-get install espeak`
+
+Then, clone this repository, then make `opsec.py` executable by running:
 
 `$ chmod +x opsec.py`
 
