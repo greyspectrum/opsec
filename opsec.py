@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from bs4 import BeautifulSoup, NavigableString
 from urllib2 import urlopen
 import time
