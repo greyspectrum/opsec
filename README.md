@@ -8,10 +8,6 @@ This script needs espeak to run, so first install it:
 
 `$ sudo apt-get install espeak`
 
-Then, clone this repository, and then make `opsec.py` executable by running:
-
-`$ chmod +x opsec.py`
-
-Then run it:
+Then, clone this repository, `cd` into the directory, and run the script:
 
 `$ python opsec.py`
